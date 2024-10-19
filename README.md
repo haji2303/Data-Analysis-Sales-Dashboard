@@ -5,3 +5,4 @@ Developed a comprehensive sales dashboard in Excel, involving data cleaning, piv
 - <a href="https://github.com/haji2303/Data-Analysis-Sales-Dashboard/blob/main/salesdata%20(1).xlsx">Dataset</a>
 - Dashboard interaction <a href="https://github.com/haji2303/Data-Analysis-Sales-Dashboard/blob/main/dashboard%20SS.png">view dashboard</a>
 ## Dashboard
+![dashboard SS](https://github.com/user-attachments/assets/1e47c801-80d8-47da-8ba2-b25b3475031a)
